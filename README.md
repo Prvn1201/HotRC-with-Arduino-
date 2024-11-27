@@ -32,7 +32,8 @@ This guide helps you set up the HOTrc with Arduino using a **L298N motor driver*
 ---
 
 **Developed by:**  
-- Kavinrajh Sugumar 
+- Kavinrajh Sugumar
+- Sree Ram Kirthy Manimaran 
 - Pravin Thiruchelvam
 
 --- 
