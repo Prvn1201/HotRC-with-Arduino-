@@ -25,6 +25,7 @@ This guide helps you set up the HOTrc with Arduino using a **L298N motor driver*
 - **CH1** and **CH2** control:
   - **CH1** = Steering
   - **CH2** = Throttle
+  - **CH3** = Shooting Mechanism 
 
 ### 5. Upload Code to Arduino
 - Write or load the appropriate code to read signals from the F-06A receiver and control the motors via L298N.
